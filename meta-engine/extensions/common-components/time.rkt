@@ -1,6 +1,6 @@
 #lang racket
 
-(displayln "HI")
+;(displayln "HI")
 
 (provide delta-time-entity
          get-delta-time
